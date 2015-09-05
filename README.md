@@ -66,6 +66,9 @@ You can view the full article, with pictures and short resource description on [
 + [Type genius](http://www.typegenius.com/)
 + [Type Scale](http://type-scale.com/): font size suggestions 
 + [What the Font!](https://www.myfonts.com/WhatTheFont/): send a picture to identify a font
++ [Typewolf](https://www.typewolf.com/)
++ [The Art Of Mixing Typefaces Google Fonts Edition](http://www.fastprint.co.uk/blog/the-art-of-mixing-typefaces.html)
+
 
 ## 8. Font Icons and Font icons generators 
 
@@ -97,10 +100,12 @@ You can view the full article, with pictures and short resource description on [
 + [Fillerama](http://chrisvalleskey.com/fillerama/)
 + [Fillerati](http://www.fillerati.com/)
 + [Picksum Ipsum](http://www.picksumipsum.co.uk/)
++ [UI Names](http://uinames.com/): random user names
 
 ## 10. Favicons 
 + [Favicon.cc](http://www.favicon.cc/)
 + [Real Favicon Generator](http://realfavicongenerator.net/)
++ [Audreyr’s Favicon cheat sheet](https://github.com/audreyr/favicon-cheat-sheet): everything about Favicons
 
 ## 11. Site optimization
 + [Google Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/)
@@ -111,6 +116,7 @@ You can view the full article, with pictures and short resource description on [
 + [Responsinator](https://www.responsinator.com/)
 + [Responsive Design Checker](http://responsivedesignchecker.com/)
 + [Am I Responsive?](http://ami.responsivedesign.is/)
++ [Browser Shots](http://browsershots.org/)
 
 ## 12. Inspiration 
 + [Dribbble](https://dribbble.com/)
@@ -122,6 +128,7 @@ You can view the full article, with pictures and short resource description on [
 + [Awwwards](http://www.awwwards.com/)
 + [Material Up](http://www.materialup.com/)
 + [Call To Idea](http://www.calltoidea.com/)
++ [Brief Generator](http://briefgenerator.com/): design brief for your next project
 
 
 List compiled by Gabi Neagu for [AcasA Programming](http://acasaprogramming.ro)
