@@ -36,9 +36,12 @@ You can view the full article, with pictures and short resource description on [
 + [Pexels Videos](https://videos.pexels.com/)
 + [Videvo](http://www.videvo.net/)
 + [Distill](http://www.wedistill.io/): still in Beta
++ [Vidsplay](http://www.vidsplay.com/)
 
 ## 5. Pattern libraries 
 + [Subtle Patterns](http://subtlepatterns.com/)
++ [Place Pattern](http://placepattern.com)
++ [The Pattern Library](http://thepatternlibrary.com)
 
 ## 6. Color Pallets
 + [Flat UI Colors](http://flatuicolors.com/)
@@ -48,6 +51,9 @@ You can view the full article, with pictures and short resource description on [
 + [Paletton](http://paletton.com/)
 + [0 to 255](http://www.0to255.com/)
 + [UI Gradients](http://uigradients.com/)
++ [Gradient.io](http://www.gradients.io/)
++ [BrandColors](http://brandcolors.net/)
++ [Pictaculous](http://brandcolors.net/): generates color palette from a picture
 
 ## 7. Typography
 
@@ -68,6 +74,7 @@ You can view the full article, with pictures and short resource description on [
 + [What the Font!](https://www.myfonts.com/WhatTheFont/): send a picture to identify a font
 + [Typewolf](https://www.typewolf.com/)
 + [The Art Of Mixing Typefaces Google Fonts Edition](http://www.fastprint.co.uk/blog/the-art-of-mixing-typefaces.html)
++ [TypeSource](http://tobiasahlin.com/typesource/)
 
 
 ## 8. Font Icons and Font icons generators 
@@ -100,6 +107,7 @@ You can view the full article, with pictures and short resource description on [
 + [Fillerama](http://chrisvalleskey.com/fillerama/)
 + [Fillerati](http://www.fillerati.com/)
 + [Picksum Ipsum](http://www.picksumipsum.co.uk/)
++ [Corporate Ipsum](http://www.cipsum.com/)
 + [UI Names](http://uinames.com/): random user names
 
 ## 10. Favicons 
@@ -128,6 +136,8 @@ You can view the full article, with pictures and short resource description on [
 + [Awwwards](http://www.awwwards.com/)
 + [Material Up](http://www.materialup.com/)
 + [Call To Idea](http://www.calltoidea.com/)
++ [Header Lover](http://www.headerlove.com/)
++ [Very Nice Sites](http://www.verynicesites.com/)
 + [Brief Generator](http://briefgenerator.com/): design brief for your next project
 
 
