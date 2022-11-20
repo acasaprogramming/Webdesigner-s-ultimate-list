@@ -53,6 +53,7 @@ You can view the full article, with pictures and short resource description on [
 + [UI Gradients](http://uigradients.com/)
 + [Gradient.io](http://www.gradients.io/)
 + [BrandColors](http://brandcolors.net/)
++ [Branition Colors](https://branition.com/colors)
 + [Pictaculous](http://brandcolors.net/): generates color palette from a picture
 
 ## 7. Typography
